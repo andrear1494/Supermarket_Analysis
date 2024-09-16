@@ -1,5 +1,5 @@
 ## Project Overview
-This project focuses on the data preparation, cleaning, and analysis of two datasets: ad_data and marketing_data. By analyzing customer demographics, advertising effectiveness, and product category performance across different segments, the goal is to provide actionable insights for the Marketing Department to optimize 2Market’s marketing strategies, efficiently allocate the budget, and identify sales growth opportunities.
+This project focuses on the data preparation, cleaning, and analysis of two datasets: ad_data.xlsx and marketing_data.xlsx (raw data).  By analyzing customer demographics, advertising effectiveness, and product category performance across different segments, the goal is to provide actionable insights for the Marketing Department to optimize 2Market’s marketing strategies, efficiently allocate the budget, and identify sales growth opportunities.
 
 ## Tools and Techniques
 This project demonstrates the power of combining:
