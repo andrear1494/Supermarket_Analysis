@@ -4,10 +4,11 @@ This project focuses on the data preparation, cleaning, and analysis of two data
 ## Tools and Techniques
 This project demonstrates the power of combining:
 
-Excel: For basic data cleaning and exploration of medium-sized datasets.
-PostgreSQL: For database creation, manipulation, and complex analysis. The data was processed in two key stages:
+**Excel**: For basic data cleaning and exploration of medium-sized datasets.
+**PostgreSQL**: For database creation, manipulation, and complex analysis. The data was processed in two key stages:
 Staging Level: Data was cleaned and structured in the staging tables for further analysis.
-Reporting Level: Final, cleaned datasets were prepared for advanced reporting and extraction into Tableau.Tableau: Employed for its advanced visualization features, allowing for a more comprehensive and intuitive analysis of the data.
+Reporting Level: Final, cleaned datasets were prepared for advanced reporting and extraction into Tableau.
+**Tableau**: Employed for its advanced visualization features, allowing for a more comprehensive and intuitive analysis of the data.
 To explore the dashboards, visit my profile on Tableau Public: https://public.tableau.com/app/profile/andrea.rossi2342/vizzes
 
 ## Data Processing Workflow 
