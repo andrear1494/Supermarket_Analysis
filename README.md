@@ -1,6 +1,12 @@
 ## Project Overview
 This project focuses on the data preparation, cleaning, and analysis of two datasets: ad_data.xlsx and marketing_data.xlsx (raw data).  By analyzing customer demographics, advertising effectiveness, and product category performance across different segments, the goal is to provide actionable insights for the Marketing Department to optimize 2Market’s marketing strategies, efficiently allocate the budget, and identify sales growth opportunities.
 
+## Data Sources
+
+- **ad_data.xlsx**: Contains lead conversions by ad channel.
+- **marketing_data.xlsx**: Contains customer sales and demographics.
+- **metadata_2Market.txt**: Provides metadata for the above datasets.
+
 ## Tools and Techniques
 This project demonstrates the power of combining:
 
